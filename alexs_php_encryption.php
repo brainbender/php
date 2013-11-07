@@ -25,6 +25,7 @@ and moved them to the top. I believe the rest works fine but
 i reordered the rest of the numbers completely. I thought that
 having number 44 and 48 missing in order would cause a weakness 
 in the encryption.*/ 
+//This entire section can be commented out if it causes issues.
 //the two lines as previously written
 //$string = str_replace(''','44',$string);
 //$string = str_replace('\','48',$string);
